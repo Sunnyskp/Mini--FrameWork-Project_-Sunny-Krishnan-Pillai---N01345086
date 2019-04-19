@@ -1,0 +1,70 @@
+body {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#dc-title {
+    font-size: 24px;
+}
+
+.thumbnailList {
+    margin-left: auto;
+    margin-right: auto;
+    text-emphasis: center;
+}
+
+.logo-style {
+    width: 10em;
+}
+
+.p {
+    font-weight: bold;
+}
+
+.div {
+    font-weight: bold;
+}
+
+.footer-style {
+    font-size: 14px;
+    font-weight: bold;
+    color: black;
+    text-align: right;
+    align-items: bottom;
+    padding-top: 1em !important;
+}
+
+.footer-copy-style {
+    color: black;
+    text-align: right;
+}
+
+.footer-style {
+    color: black;
+    text-align: left;
+    padding-bottom: 1em;
+}
+
+.verified-style {
+    width: 1em;
+}
+
+.logo1-size {
+    width: 8em;
+    padding: -1em;
+}
+
+.logo2-size {
+    width: 4em;
+    padding: 1em;
+}
+
+#row-style {
+    padding: 1em;
+}
+
+.search {
+    width: 13em;
+    text-align: center;
+    margin-top: 1em;
+}
